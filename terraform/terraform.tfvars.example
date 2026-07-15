@@ -1,0 +1,9 @@
+aws_region = "us-east-1"
+
+app_name = "amplify-demo"
+
+branch_name = "main"
+
+github_repository = "https://github.com/Durga-Nivashini/amplify-new"
+
+github_token = ""
